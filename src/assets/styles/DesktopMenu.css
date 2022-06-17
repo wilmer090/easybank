@@ -1,0 +1,13 @@
+.desktop_menu_wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: 2em;
+  padding-bottom: 2em !important;
+  color: hsl(233, 8%, 62%);
+}
+
+.logo {
+  height: 20px;
+}

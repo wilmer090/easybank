@@ -1,0 +1,15 @@
+.primary_button {
+  background-image: linear-gradient(
+    to right,
+    #31d35c 0%,
+    #31d35c -20%,
+    #2bb7da 100%
+  );
+  font-family: "Public Sans", sans-serif;
+  color: hsl(0, 0%, 100%);
+  padding: 1em;
+  border: none;
+  cursor: pointer;
+  border-radius: 25px;
+  width: 150px;
+}

@@ -1,0 +1,16 @@
+.card_wrapper {
+  background: hsl(0, 0%, 100%);
+  margin-bottom: 1em;
+  max-width: 100%;
+}
+.card_wrapper > div > p {
+  padding-top: 0;
+  text-align: justify;
+  word-break: break-all;
+}
+
+@media (min-width: 600px) {
+  .card_wrapper {
+    max-width: 250px;
+  }
+}

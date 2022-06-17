@@ -1,0 +1,14 @@
+.infobox_wrapper {
+  padding: 1em 0;
+}
+.infobox_wrapper > p {
+  padding-top: 0;
+  text-align: justify;
+  word-break: break-all;
+}
+
+@media (min-width: 500px) {
+  .infobox_wrapper {
+    max-width: 230px;
+  }
+}
