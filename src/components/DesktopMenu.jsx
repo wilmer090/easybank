@@ -6,7 +6,7 @@ import "../assets/styles/DesktopMenu.css";
 const DesktopMenu = () => {
   return (
     <main className="desktop_menu_wrapper body-margin">
-      <img src={`${logo}`} className="logo" />
+      <img src={`${logo}`} className="logo" alt="" />
       <MenuList />
       <Button title={"Request Invite"} />
     </main>

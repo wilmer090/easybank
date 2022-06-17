@@ -6,7 +6,6 @@ import yt from "../assets/img/icon-youtube.svg";
 import twt from "../assets/img/icon-twitter.svg";
 import pin from "../assets/img/icon-pinterest.svg";
 import insta from "../assets/img/icon-instagram.svg";
-import logo from "../assets/img/logo.svg";
 
 const Footer = () => {
   return (
